@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "data-cleaning": "ts-node data-cleaning.ts"
+    "data-cleaning": "ts-node script.ts"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
